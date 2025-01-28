@@ -13,7 +13,7 @@ Hi there! 👋 I'm a passionate a social science researcher that is passionate a
 ---
 
 ## 📂 **Portfolio**  
-Check out my **[Data Science Portfolio](https://github.com/yourusername/Data-Science-Portfolio)** for projects that showcase my skills - this will continue to be updated as I develop a strong portfolio. Be nice - I'm just starting out!
+Check out my **[Data Science Portfolio](https://github.com/yourusername/Data-Science-Portfolio](https://github.com/jthomp33/THOMPSON-Data-Science-Portfolio)** for projects that showcase my skills - this will continue to be updated as I develop a strong portfolio. Be nice - I'm just starting out!
 
 ---
 
