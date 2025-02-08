@@ -13,7 +13,7 @@ Hi there! 👋 I'm a social science researcher passionate about using data as on
 ## 📂 **Portfolio**  
 Check out my **[Data Science Portfolio](https://github.com/jthomp33/THOMPSON-Data-Science-Portfolio)** for projects that showcase my skills. This will continue to be updated as I develop a stronger portfolio. Be kind—I'm just getting started!  
 
-Right now, this includes a basic app in stremlit that filters penguins by various metrics like body weight, flipper length, and species. This is my first ap, and I am pretty prod of it. You can access it through the link above, and learn about its functionality in the ReadMe file there. I willl be adding more projects as my skills grow, but this is my starting point!
+Right now, this includes a basic app in stremlit that filters penguins by various metrics like body weight, flipper length, and species. This is my first app, and I am pretty proud of it. You can access it through the link above, and learn about its functionality in the ReadMe file there. I will be adding more projects as my skills grow, but this is my starting point!
 
 ---
 
